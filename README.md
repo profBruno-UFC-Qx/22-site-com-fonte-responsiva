@@ -12,7 +12,7 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
 
 ## Instruções:
 
-1. Altere o arquivo **src/index.html** para que o tamanho da fonte do `body` seja de 16px.
+1. Altere o arquivo **src/css/estilo.css** para que o tamanho da fonte do `body` do **src/index.html** seja de 16px.
 2. Dentro do `<body>`, crie um título da página (`<h1>`), um parágrafo de texto (`<p>`).
 3. Faça com que o tamanho da fonte do `h1` seja 4 vezes o tamanho do body.
 4. O tamanho da fonte do paragrafo deve ser metade do tamanho da fonte do `h1`.
